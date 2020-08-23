@@ -1,0 +1,65 @@
+body{
+    background: url("ab.jpg");
+    background-size: cover; 
+
+}
+h1{
+    text-shadow: 3px 2px blue;
+    text-align: center;
+}
+.header {
+    
+    text-align: center;
+    padding: 20px;
+  }
+
+
+  
+ul{
+    list-style-type:none;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.705);
+    margin: 0px;
+    padding: 0px;
+    opacity: 0.4px;
+   
+}
+
+ul li{
+    float:left;
+    padding: 15px 25px;
+}
+
+ul a{
+
+    text-decoration: none;
+    display: inline-block;
+    color: whitesmoke;
+    overflow: hidden;
+    text-transform: capitalize;
+}
+.right{
+    float: right;
+}
+
+
+ul li:hover{
+    background-color: grey;
+
+}
+.bottom
+{
+    text-align: center;
+    padding: 5px;
+}
+
+div{
+    background-color: black;
+    width: 60%;
+    margin: 200px auto;
+    text-align: center;
+    color: whitesmoke;
+     border-radius: 20px;
+    opacity: 0.6;
+    border-radius:20px;
+}
